@@ -8,7 +8,6 @@ h2 {
   text-shadow: 1px 1px #0000b3;
 }
 
-ol {
-list-style-image: url("images/list_logo.png");
+ul {
+	list-style-image:url('../images/list_logo.png');
 }
-
